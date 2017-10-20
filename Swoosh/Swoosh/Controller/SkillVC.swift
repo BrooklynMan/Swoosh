@@ -20,10 +20,8 @@ class SkillVC: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        
     }
     
-
     /*
     // MARK: - Navigation
 
